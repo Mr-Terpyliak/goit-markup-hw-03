@@ -2,6 +2,8 @@ body {
   font-family: "Roboto", sans-serif;
   background: #ffffff;
   color: #434455;
+}
+.img {
   display: block;
 }
 
@@ -231,6 +233,7 @@ address {
 .team-item {
   background-color: #ffffff;
   width: calc((100% - 72px) / 4);
+  border-radius: 0px 0px 4px 4px;
 }
 .team-pic {
   background: #fff;
