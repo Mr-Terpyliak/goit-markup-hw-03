@@ -3,9 +3,6 @@ body {
   background: #ffffff;
   color: #434455;
 }
-.img {
-  display: block;
-}
 
 h1,
 h2,
@@ -61,6 +58,7 @@ address {
 .header-menu-list {
   display: flex;
   gap: 40px;
+  margin-right: 332px;
 }
 
 .header-navigation {
@@ -124,6 +122,7 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  /* margin-left: 332px; */
 }
 
 .page-navigation-link:hover,
