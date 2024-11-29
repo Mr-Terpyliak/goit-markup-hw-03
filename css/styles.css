@@ -281,6 +281,13 @@ address {
   padding-bottom: 120px;
 }
 
+.title-container {
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
+  border-top: none;
+  margin-bottom: 8px;
+}
+
 .portfolio-title {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
