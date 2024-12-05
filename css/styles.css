@@ -253,6 +253,7 @@ address {
 }
 .team-pic {
   background: #fff;
+  display: block;
 }
 .team-subtitle {
   font-family: "Roboto", sans-serif;
@@ -320,6 +321,7 @@ address {
 }
 
 .portfolio-image {
+  display: block;
 }
 
 .portfolio-subtitle {
@@ -329,6 +331,7 @@ address {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .portfolio-item-text {
